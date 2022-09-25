@@ -7,7 +7,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="mtrl_textinput_default_box_stroke_color">#296D98</color>
-    <color name="white">#FFFFFF</color>
-    <color name="blue_shade_1">#0e2433</color>
+    <color name="white">#0e2433</color>
+    <color name="blue_shade_1">#FFFFFF</color>
     <color name="blue_shade_2">#1C4966</color>
 </resources>
